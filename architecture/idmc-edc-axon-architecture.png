@@ -1,0 +1,12 @@
+Source (Salesforce-style Account)
+        |
+        v
+IDMC Mapping
+(Expression: Standardization + Masking)
+        |
+        v
+Target (Account)
+        |
+        v
+Metadata → Enterprise Data Catalog (EDC)
+Business Context → Axon Data Governance
